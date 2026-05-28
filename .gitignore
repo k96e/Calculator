@@ -30,3 +30,54 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+x64/
+x86/
+Debug/
+Release/
+*.ncb
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build output
+build/
+out/
+bin/
+obj/
+
+# C++ compiled
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Editor temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
